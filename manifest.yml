@@ -1,0 +1,6 @@
+applications:
+- instances: 1
+  memory: 1024M
+  name: kognitiv-api
+  host: kognitiv-api
+  path: build/libs/kognitive-api-0.0.1-SNAPSHOT.jar
